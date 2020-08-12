@@ -1,1 +1,1 @@
-# <html>pashz.github.io</html>
+# [Resume](https://pashz.github.io)
