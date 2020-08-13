@@ -1,1 +1,1 @@
-# [Resume](https://pashz.github.io)
+# [Resume Demo](https://pashz.github.io)
