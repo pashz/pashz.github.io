@@ -1,2 +1,2 @@
 # Sample Website
-[Resume Demo](https://pashz.github.io)
+[Demo Resume](https://pashz.github.io)
