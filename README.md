@@ -96,3 +96,5 @@ Demo Resume (https://pashz.github.io)
 <!-- 2021 update -->
 
 <!-- 2022 update -->
+
+<!-- 2023 update -->
