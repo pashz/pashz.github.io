@@ -124,3 +124,5 @@ Demo Resume (https://pashz.github.io)
 <!-- 2025 update -->
 
 <!-- 2025 update -->
+
+<!-- 2025 update -->
